@@ -1,3 +1,3 @@
-# Dio-Desafio-ProjGIT01
-Primeiro repositório de desafio DIO.
+# Respositório de desafio sobre Git / Github
+Desafio DIO.
 Git/Github
